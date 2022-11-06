@@ -1,0 +1,13 @@
+{
+  "domain": "ecoforest",
+  "name": "ecoforest",
+  "config_flow": true,
+  "documentation": "https://www.home-assistant.io/integrations/ecoforest",
+  "requirements": ["requests==2.28.1", "types-requests==2.28.11.2"],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": ["@joaorrpinto"],
+  "iot_class": "local_polling"
+}
